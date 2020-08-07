@@ -1,6 +1,6 @@
 # Bem vindo! #
 
-## Aqui você encontra alguns exercícios de lógica de programação em Java :) ##
+## Aqui você encontra alguns exercícios de lógica de programação em Java 🤓🧠🤯 ##
 
 Esses exercícios foram escritos no Portugol (software de pseudocódigo) e trazidos para o Java.
 
