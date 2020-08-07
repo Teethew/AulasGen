@@ -6,4 +6,4 @@ Esses exercícios foram escritos no Portugol (software de pseudocódigo) e trazi
 
 Sinta-se livre para usar esse código como quiser! ```public static boolean openSource (true);```
 
-** Os exercícios se encontram na pasta src (source) **
+**Os exercícios se encontram na pasta src (source)**
