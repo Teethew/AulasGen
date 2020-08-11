@@ -1,3 +1,4 @@
+package entradaESaida;
 import java.util.Scanner;
 public class IdadeAMD2 {
 	// Faça um sistema que leia a idade de uma pessoa expressa em dias e mostre-a

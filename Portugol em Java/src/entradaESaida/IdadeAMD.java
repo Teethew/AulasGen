@@ -1,3 +1,4 @@
+package entradaESaida;
 import java.util.Scanner;
 
 public class IdadeAMD {

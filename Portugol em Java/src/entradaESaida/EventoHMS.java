@@ -1,3 +1,4 @@
+package entradaESaida;
 import java.util.Scanner;
 public class EventoHMS {
 	/*Faça um sistema que leia o tempo de duração de um evento em uma fábrica
