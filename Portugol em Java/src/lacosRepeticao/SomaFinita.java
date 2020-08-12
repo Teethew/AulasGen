@@ -15,7 +15,7 @@ public class SomaFinita {
 		System.out.println("Digite os números que desejar e 0 quando quiser finalizar.");
 		do {
 			soma += n;
-			n = s.nextInt();
+			n = s.nextDouble();
 		} while(n!=0);
 		
 		System.out.println("\nEssa soma equivale a "+soma);
