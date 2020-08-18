@@ -1,11 +1,17 @@
 package projeto;
 
-public class Casa {
+public abstract class Casa {
 	private String nome;
-	private int cont;
+	private int cont; //número de vezes que a casa foi escolhida no quiz
 	
 	public Casa(String nome) {
 		this.nome = nome;
+	}
+	
+	public abstract void lemaDaCasa();
+	
+	public void add(){
+		this.cont++;
 	}
 
 	public String getNome() {
