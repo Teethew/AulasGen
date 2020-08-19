@@ -14,7 +14,7 @@ public class Main {
 		Grifinoria opcaoC = new Grifinoria("Grifinoria");
 		LufaLufa opcaoD = new LufaLufa("Lufa-Lufa");
 		
-		//as casas serão adicionadas à essa colection para depois podermos verificar qual foi a mais escolhida no teste
+		//as casas serão adicionadas à essa collection para depois podermos verificar qual foi a mais escolhida no teste
 		List <Casa> casa = new ArrayList();
 		
 		casa.add(opcaoA);
@@ -41,13 +41,13 @@ public class Main {
 		//populando o arraylist com as perguntas
 		perguntas.add("1) Qual das seguintes habilidades tem mais a ver com você?");
 		perguntas.add("2) Qual dessas mentalidades está mais presente na sua personalidade?");
-		perguntas.add("3)Como \" Dev \" qual dos adjetivos abaixo mais te ofenderia caso você fosse chamado?");
+		perguntas.add("3)Como \"Dev\" qual dos adjetivos abaixo mais te ofenderia caso você fosse chamado?");
 		perguntas.add("4) O que você prefere fazer no seu tempo livre?");
 		perguntas.add("5) Em uma história, que personalidade você prefere que o/a protagonista tenha?");
 		perguntas.add("6) Qual gênero musical mais te agrada?");
 		perguntas.add("7) Escolha dentre essas uma linguagem de programação...!!!");
 		perguntas.add("8) Se pudesse comer apenas uma coisa pro resto da vida, o que seria?");
-		perguntas.add("9) Qual seu estilo de jogos você prefere?");
+		perguntas.add("9) Qual estilo de jogos você prefere?");
 		perguntas.add("10) Com qual personagem de Turma da Mônica você mais se identifica?");
 		perguntas.add("11) Escolha uma série:");
 		perguntas.add("12) Escolha um pesadelo do primeiro módulo:");
@@ -73,7 +73,7 @@ public class Main {
 		opcoesB.add("Orientação ao futuro");
 		opcoesB.add("Irrelevante");
 		opcoesB.add("Ficar em casa lendo ou assistindo série");
-		opcoesB.add("Que seja mais sábio/a e age como ");
+		opcoesB.add("Que seja mais sábio/a e age como líder");
 		opcoesB.add("Clássica");
 		opcoesB.add("Kotlin");
 		opcoesB.add("Pizza");
@@ -121,7 +121,7 @@ public class Main {
 			
 			char opcao; //será onde a opcao digitada pelo usuario sera armazenada
 			while(true) {
-				System.out.println(i); //mostra a pergunta para o usuario
+				System.out.println(i+"\n"); //mostra a pergunta para o usuario
 				//os prints abaixo mostram as respectivas opcoes, contidas nos List opcoesA, opcoesB, ...
 				System.out.println("a) "+opcoesA.get(j)); 
 				System.out.println("b) "+opcoesB.get(j));
