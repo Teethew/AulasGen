@@ -41,7 +41,7 @@ public class Main {
 		//populando o arraylist com as perguntas
 		perguntas.add("1) Qual das seguintes habilidades tem mais a ver com você?");
 		perguntas.add("2) Qual dessas mentalidades está mais presente na sua personalidade?");
-		perguntas.add("3)Como \"Dev\" qual dos adjetivos abaixo mais te ofenderia caso você fosse chamado?");
+		perguntas.add("3) Como \"Dev\" qual dos adjetivos abaixo mais te ofenderia caso você fosse chamado?");
 		perguntas.add("4) O que você prefere fazer no seu tempo livre?");
 		perguntas.add("5) Em uma história, que personalidade você prefere que o/a protagonista tenha?");
 		perguntas.add("6) Qual gênero musical mais te agrada?");
